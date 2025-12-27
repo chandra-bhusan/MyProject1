@@ -55,8 +55,7 @@ export default function Footer() {
 
         {/* Bottom Section */}
         <div className="flex justify-center md:justify-between items-center flex-col gap-2 text-sm">
-          <p className="font-semibold"><span style={{ color: '#fbbf24' }}>★★★</span> Subramanyam PG for Boys — BTM Layout, Bangalore</p>
-          <p className="text-gray-500">Developer: <span className="font-medium text-gray-300">Chandra Yadav</span></p>
+          <p className="text-gray-500"><span style={{ color: '#fbbf24' }}>★★★</span> Developer: <span className="font-medium text-gray-300">Chandra Yadav</span></p>
           <p className="text-gray-500 mt-2">© 2025 Subramanyam Boys PG. All rights reserved.</p>
           <div className="flex gap-6 mt-2">
             <a href="#" className="text-gray-400 hover:text-white transition">Privacy Policy</a>
