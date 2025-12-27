@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shimmer-text {
+	animation: shimmer-effect 5s ease-in-out infinite;
+}
+
+@keyframes shimmer-effect {
+	0% {
+		background: linear-gradient(90deg, rgba(0,0,0,0.12), rgba(0,0,0,0.6), rgba(0,0,0,0.12));
+		background-size: 200% 100%;
+		background-clip: text;
+		-webkit-background-clip: text;
+		color: transparent;
+		background-position: 200% 0;
+	}
+	40% {
+		background: linear-gradient(90deg, rgba(0,0,0,0.12), rgba(0,0,0,0.6), rgba(0,0,0,0.12));
+		background-size: 200% 100%;
+		background-clip: text;
+		-webkit-background-clip: text;
+		color: transparent;
+		background-position: -200% 0;
+	}
+	60% {
+		background: none;
+		-webkit-background-clip: unset;
+		background-clip: unset;
+		color: black;
+	}
+	100% {
+		background: none;
+		-webkit-background-clip: unset;
+		background-clip: unset;
+		color: black;
+	}
+}
