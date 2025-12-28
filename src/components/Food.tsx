@@ -6,7 +6,7 @@ const meals = [
     items: [
       { name: 'Tea and Cookies', img: '/images/cybfst1.jpg' },
       { name: 'Dosa Chutney', img: '/images/cybfst2.jpg' },
-      { name: 'Poha', img: '/images/teacream.jpg' },
+      { name: 'Tea and simple buns', img: '/images/teacream.jpg' },
       { name: 'Aloo Paratha', img: '/images/cybfst4.jpg' },
       { name: 'Idli Chutney', img: '/images/cybfst5.jpg' },
       { name: 'Puri Sabji', img: '/images/cybfst6.jpg' },
