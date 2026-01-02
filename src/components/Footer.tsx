@@ -19,11 +19,11 @@ export default function Footer() {
             <h3 className="text-white font-bold text-lg mb-4">Contact Info</h3>
             <div className="space-y-3 text-sm flex flex-col items-center md:items-start">
               <a
-                href="tel:+918271462406"
+                href="tel:+919353773283"
                 className="flex items-center gap-2 hover:text-white transition"
               >
                 <Phone className="w-4 h-4" />
-                +91 82714 62406
+                +91 9353773283
               </a>
               <a
                 href="mailto:juisch20220010845@gmail.com"

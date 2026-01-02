@@ -37,10 +37,10 @@ export default function Hero() {
               BTM Layout, Bangalore
             </p>
             <div className="flex justify-center gap-4 md:mt-4">
-              <a href="https://wa.me/918271462406" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition">
+              <a href="https://wa.me/919353773283" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition">
                 <img src="/home/cyhome3.png" alt="WhatsApp" className="w-9 h-9" />
               </a>
-              <a href="tel:+918271462406" className="hover:scale-110 transition">
+              <a href="tel:+919353773283" className="hover:scale-110 transition">
                 <img src="/home/cyhome4.png" alt="Call" className="w-9 h-9 rounded-full object-cover" />
               </a>
               <a href="mailto:juisch20220010845@gmail.com" className="hover:scale-110 transition">
