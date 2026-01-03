@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { Users } from 'lucide-react';
 
 const availability = [
-  { type: '1 Sharing', vacant: 6, fee: '16000', icon: 1 },
-  { type: '2 Sharing', vacant: 3, fee: '12000', icon: 2 },
-  { type: '3 Sharing', vacant: 5, fee: '11000', icon: 3 },
+  { type: '1 Sharing', vacant: 6, fee: '14000', icon: 1 },
+  { type: '2 Sharing', vacant: 3, fee: '10000', icon: 2 },
+  { type: '3 Sharing', vacant: 5, fee: '9000', icon: 3 },
   { type: '4 Sharing', vacant: 3, fee: '8000', icon: 4 },
 ];
 
@@ -39,7 +39,7 @@ export default function Availability() {
               </div>
               <h3 className="text-xl font-semibold text-gray-700 mb-3">{item.type}</h3>
               <p className="text-base text-gray-600 mb-2">
-                Vacant Rooms: <span className="font-bold text-xl text-gray-800">{item.vacant}</span>
+                Vacant Beds: <span className="font-bold text-xl text-gray-800">{item.vacant}</span>
               </p>
               <p className="text-base text-gray-600">
                 Monthly Fees: <span className="font-bold text-xl text-gray-800">₹ {item.fee}/-</span>
