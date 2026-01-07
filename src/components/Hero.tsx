@@ -31,10 +31,10 @@ export default function Hero() {
         <div className="flex flex-col-reverse md:flex-row items-center justify-around gap-4 md:gap-12">
           <div className="text-center">
             <h1 className="text-[1.5rem] md:text-5xl font-bold mb-1 text-light-pass">
-            Subramanyam PG for Boys
+            Siddhivinayak PG for Boys
             </h1>
             <p className="text-lg md:text-[1.625rem] md:leading-[1.85rem] md:pb-0.5 font-bold mb-3 md:mt-4 text-light-pass">
-              BTM Layout, Bangalore
+              Noida, UP
             </p>
             <div className="flex justify-center gap-4 md:mt-4">
               <a href="https://wa.me/919353773283" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition">
