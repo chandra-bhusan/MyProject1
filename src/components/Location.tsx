@@ -14,12 +14,15 @@ export default function Location() {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div className="space-y-8 order-2 lg:order-1">
+
             <div className="flex items-start gap-4">
               <img src="/location/cylocation2.png" alt="Address" className="w-5 h-6 flex-shrink-0 mt-1" />
               <div>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Sri Sai Boys PG 2nd Stage, BTM Layout Near<br />
-                  16th Main Road, Bangalore – 560076
+                  Sri Bhavani PG for Gents<br />
+                  429, 16th Cross, 18th Main Road,<br />
+                  Sector 4, HSR Layout,<br />
+                  Bengaluru – 560102
                 </p>
               </div>
             </div>
@@ -27,10 +30,10 @@ export default function Location() {
             <div className="flex items-start gap-4">
               <span className="text-2xl sm:text-3xl flex-shrink-0">🚉</span>
               <div>
-                <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearest Metro Station</h3>
+                <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearest Metro Stations (Upcoming)</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">Jayadeva Hospital Metro Station</li>
-                  <li className="text-base sm:text-lg text-gray-600">Silk Board Metro Station</li>
+                  <li className="text-base sm:text-lg text-gray-600">Agara Metro Station (Blue Line – under construction)</li>
+                  <li className="text-base sm:text-lg text-gray-600">HSR Layout Metro Station (Blue Line – under construction)</li>
                 </ul>
               </div>
             </div>
@@ -40,8 +43,10 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Bus Stops</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">BTM Water Tank Bus Stop</li>
-                  <li className="text-base sm:text-lg text-gray-600">Udupi Garden Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">HSR Layout Sector 4 Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Swabhiman Park Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">14th Main Road HSR Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">19th Main Road HSR Bus Stop</li>
                 </ul>
               </div>
             </div>
@@ -51,10 +56,12 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Colleges & Institutions</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">Christ University</li>
-                  <li className="text-base sm:text-lg text-gray-600">IIM Bangalore</li>
-                  <li className="text-base sm:text-lg text-gray-600">Oxford College of Engineering</li>
-                  <li className="text-base sm:text-lg text-gray-600">Dayananda Sagar Institutions</li>
+                  <li className="text-base sm:text-lg text-gray-600">The Oxford College of Science</li>
+                  <li className="text-base sm:text-lg text-gray-600">SVR College, HSR Layout</li>
+                  <li className="text-base sm:text-lg text-gray-600">Govt First Grade College, HSR Layout (Agara)</li>
+                  <li className="text-base sm:text-lg text-gray-600">Shakuntala Devi International Institute (Sector 4)</li>
+                  <li className="text-base sm:text-lg text-gray-600">Aakash Institute, HSR Layout</li>
+                  <li className="text-base sm:text-lg text-gray-600">Great Learning Bangalore Campus</li>
                 </ul>
               </div>
             </div>
@@ -76,7 +83,7 @@ export default function Location() {
               />
             </div>
             <a
-              href="https://maps.google.com/?q=BTM+Layout+Bangalore"
+              href="https://maps.app.goo.gl/9ZkHwPwxmE9CFonH9"
               target="_blank"
               rel="noopener noreferrer"
               className="block"

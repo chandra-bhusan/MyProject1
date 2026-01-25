@@ -4,7 +4,7 @@ const facilities = [
   { name: 'Wi-Fi', img: '/facilities/cyfaci1.jpg' },
   { name: 'CCTV Security', img: '/facilities/cyfaci2.jpg' },
   { name: 'Cupboard', img: '/facilities/cyfaci3.jpg' },
-  { name: 'Induction-Self Cooking', img: '/facilities/cyfaci4.jpg' },
+  { name: 'Refrigerator', img: '/facilities/OIP.jpeg' },
   { name: 'Drinking Water (RO)', img: '/facilities/cyfaci5.jpg' },
   { name: 'Washing Machine', img: '/facilities/cyfaci6.jpg' },
 ];
