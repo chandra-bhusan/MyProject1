@@ -19,12 +19,11 @@ export default function Location() {
               <img src="/location/cylocation2.png" alt="Address" className="w-5 h-6 flex-shrink-0 mt-1" />
               <div>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  JK Star PG & Accommodation<br />
-                  MIG-1229, 100 Feet Road,<br />
-                  Near Gandhi Statue, Midhilapuri VUDA Colony,<br />
-                  Pothinamallayya Palem,<br />
-                  Visakhapatnam – 530041<br />
-                  Andhra Pradesh, India
+                  Luxury PG & Accodomation<br />
+                  Plot No. 29, Jubilee Enclave,<br />
+                  HITEC City,<br />
+                  Hyderabad – 500081<br />
+                  Telangana, India
                 </p>
               </div>
             </div>
@@ -32,8 +31,11 @@ export default function Location() {
             <div className="flex items-start gap-4">
               <span className="text-2xl sm:text-3xl flex-shrink-0">🚉</span>
               <div>
-                <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearest Rail Station</h3>
-                <p className="text-base sm:text-lg text-gray-600">Visakhapatnam Railway Station (VSKP)</p>
+                <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearest Metro Station</h3>
+                <ul className="list-disc list-inside space-y-1">
+                  <li className="text-base sm:text-lg text-gray-600">HITEC City Metro Station (Blue Line)</li>
+                  <li className="text-base sm:text-lg text-gray-600">Durgam Cheruvu Metro Station</li>
+                </ul>
               </div>
             </div>
 
@@ -42,10 +44,10 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Bus Stops</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">Pothinamallayya Palem (PM Palem) Bus Stop</li>
-                  <li className="text-base sm:text-lg text-gray-600">Midhilapuri VUDA Colony Bus Stop</li>
-                  <li className="text-base sm:text-lg text-gray-600">Maddilapalem Bus Station</li>
-                  <li className="text-base sm:text-lg text-gray-600">Simhachalam Bus Station</li>
+                  <li className="text-base sm:text-lg text-gray-600">HITEC City Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Jubilee Enclave Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Cyber Towers Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Madhapur Bus Stop</li>
                 </ul>
               </div>
             </div>
@@ -55,17 +57,16 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Colleges & Institutions</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">Andhra University, Visakhapatnam</li>
-                  <li className="text-base sm:text-lg text-gray-600">GITAM University (City & Medical Campus)</li>
-                  <li className="text-base sm:text-lg text-gray-600">Sanketika Vidya Parishad Engineering College</li>
-                  <li className="text-base sm:text-lg text-gray-600">Dr. L Bullayya College</li>
-                  <li className="text-base sm:text-lg text-gray-600">Sri Vidya Nilayam Degree College</li>
+                  <li className="text-base sm:text-lg text-gray-600">IIIT Hyderabad</li>
+                  <li className="text-base sm:text-lg text-gray-600">International School of Business (ISB), Gachibowli</li>
+                  <li className="text-base sm:text-lg text-gray-600">University of Hyderabad</li>
+                  <li className="text-base sm:text-lg text-gray-600">JNTU Hyderabad</li>
                 </ul>
               </div>
             </div>
 
             <p className="text-base sm:text-lg text-gray-600 font-bold text-center sm:text-left">
-              Well connected by bus, auto, cab, and bike taxi services.
+              Well connected by metro, bus, auto, cab, and bike taxi services.
             </p>
           </div>
 
@@ -78,7 +79,7 @@ export default function Location() {
               />
             </div>
             <a
-              href="https://maps.app.goo.gl/EwjtTVgRDA1SrcrM8"
+              href="https://maps.app.goo.gl/VUKGmbkjAY7g2LFV8"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
