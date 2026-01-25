@@ -78,7 +78,7 @@ export default function Location() {
               />
             </div>
             <a
-              href="https://maps.app.goo.gl/9ZkHwPwxmE9CFonH9"
+              href="https://maps.app.goo.gl/EwjtTVgRDA1SrcrM8"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
