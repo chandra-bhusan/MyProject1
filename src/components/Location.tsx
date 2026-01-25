@@ -19,10 +19,12 @@ export default function Location() {
               <img src="/location/cylocation2.png" alt="Address" className="w-5 h-6 flex-shrink-0 mt-1" />
               <div>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Sri Bhavani PG for Gents<br />
-                  429, 16th Cross, 18th Main Road,<br />
-                  Sector 4, HSR Layout,<br />
-                  Bengaluru – 560102
+                  JK Star PG & Accommodation<br />
+                  MIG-1229, 100 Feet Road,<br />
+                  Near Gandhi Statue, Midhilapuri VUDA Colony,<br />
+                  Pothinamallayya Palem,<br />
+                  Visakhapatnam – 530041<br />
+                  Andhra Pradesh, India
                 </p>
               </div>
             </div>
@@ -30,11 +32,8 @@ export default function Location() {
             <div className="flex items-start gap-4">
               <span className="text-2xl sm:text-3xl flex-shrink-0">🚉</span>
               <div>
-                <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearest Metro Stations (Upcoming)</h3>
-                <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">Agara Metro Station (Blue Line – under construction)</li>
-                  <li className="text-base sm:text-lg text-gray-600">HSR Layout Metro Station (Blue Line – under construction)</li>
-                </ul>
+                <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearest Rail Station</h3>
+                <p className="text-base sm:text-lg text-gray-600">Visakhapatnam Railway Station (VSKP)</p>
               </div>
             </div>
 
@@ -43,10 +42,10 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Bus Stops</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">HSR Layout Sector 4 Bus Stop</li>
-                  <li className="text-base sm:text-lg text-gray-600">Swabhiman Park Bus Stop</li>
-                  <li className="text-base sm:text-lg text-gray-600">14th Main Road HSR Bus Stop</li>
-                  <li className="text-base sm:text-lg text-gray-600">19th Main Road HSR Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Pothinamallayya Palem (PM Palem) Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Midhilapuri VUDA Colony Bus Stop</li>
+                  <li className="text-base sm:text-lg text-gray-600">Maddilapalem Bus Station</li>
+                  <li className="text-base sm:text-lg text-gray-600">Simhachalam Bus Station</li>
                 </ul>
               </div>
             </div>
@@ -56,21 +55,17 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Colleges & Institutions</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">The Oxford College of Science</li>
-                  <li className="text-base sm:text-lg text-gray-600">SVR College, HSR Layout</li>
-                  <li className="text-base sm:text-lg text-gray-600">Govt First Grade College, HSR Layout (Agara)</li>
-                  <li className="text-base sm:text-lg text-gray-600">Shakuntala Devi International Institute (Sector 4)</li>
-                  <li className="text-base sm:text-lg text-gray-600">Aakash Institute, HSR Layout</li>
-                  <li className="text-base sm:text-lg text-gray-600">Great Learning Bangalore Campus</li>
+                  <li className="text-base sm:text-lg text-gray-600">Andhra University, Visakhapatnam</li>
+                  <li className="text-base sm:text-lg text-gray-600">GITAM University (City & Medical Campus)</li>
+                  <li className="text-base sm:text-lg text-gray-600">Sanketika Vidya Parishad Engineering College</li>
+                  <li className="text-base sm:text-lg text-gray-600">Dr. L Bullayya College</li>
+                  <li className="text-base sm:text-lg text-gray-600">Sri Vidya Nilayam Degree College</li>
                 </ul>
               </div>
             </div>
 
-            <p className="text-base sm:text-lg text-gray-600 font-bold text-center sm:text-left block sm:hidden">
-              Well connected by bus, metro, auto, bike services.
-            </p>
-            <p className="text-base sm:text-lg text-gray-600 font-bold text-center sm:text-left hidden sm:block">
-              Well connected by bus, metro, auto, cab, and bike taxi services.
+            <p className="text-base sm:text-lg text-gray-600 font-bold text-center sm:text-left">
+              Well connected by bus, auto, cab, and bike taxi services.
             </p>
           </div>
 

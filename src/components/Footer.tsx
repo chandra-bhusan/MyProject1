@@ -8,9 +8,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8 text-center md:text-left">
           {/* Company Info */}
           <div>
-            <h3 className="text-white font-bold text-lg mb-4">Bhavani PG</h3>
+            <h3 className="text-white font-bold text-lg mb-4">JK Star PG & Accommodation</h3>
             <p className="text-sm text-gray-400 mb-4">
-              Premium accommodation services for students and professionals in Bangalore.
+              Premium accommodation services for students and professionals in Visakhapatnam.
             </p>
           </div>
 
@@ -19,22 +19,22 @@ export default function Footer() {
             <h3 className="text-white font-bold text-lg mb-4">Contact Info</h3>
             <div className="space-y-3 text-sm flex flex-col items-center md:items-start">
               <a
-                href="tel:+919972624073"
+                href="tel:+918886121280"
                 className="flex items-center gap-2 hover:text-white transition"
               >
                 <Phone className="w-4 h-4" />
-                +91 9972624073
+                +91 8886121280
               </a>
               <a
-                href="mailto:bhavanipg@gmail.com"
+                href="mailto:jkstargp@gmail.com"
                 className="flex items-center gap-2 hover:text-white transition"
               >
                 <Mail className="w-4 h-4" />
-                bhavanipg@gmail.com
+                jkstargp@gmail.com
               </a>
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
-                <span>HSR Layout, Bangalore – 560102</span>
+                <span>Visakhapatnam – 530041</span>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="flex justify-center md:justify-between items-center flex-col gap-2 text-sm">
           <p className="text-gray-500"><span style={{ color: '#fbbf24' }}>★★★</span> Developer: <span className="font-medium text-gray-300">Chandra Kumar</span></p>
-          <p className="text-gray-500 mt-2">© 2025 Bhavani PG. All rights reserved.</p>
+          <p className="text-gray-500 mt-2">© 2025 JK Star PG & Accommodation. All rights reserved.</p>
           <div className="flex gap-6 mt-2">
             <a href="#" className="text-gray-400 hover:text-white transition">Privacy Policy</a>
             <a href="#" className="text-gray-400 hover:text-white transition">Terms of Service</a>
