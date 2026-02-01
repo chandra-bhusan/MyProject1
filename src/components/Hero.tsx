@@ -59,7 +59,7 @@ export default function Hero() {
 
           <div className="w-[15.75rem] h-[15.75rem] md:w-80 md:h-80">
             <img
-              src="/home/cypg25.png"
+              src="/home/cypg25.jpg"
               alt="PG Building"
               className="w-full h-full object-cover rounded-full border-4"
               style={{ borderColor: '#ff914d' }}
