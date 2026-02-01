@@ -23,18 +23,18 @@ export default function Footer() {
                 className="flex items-center gap-2 hover:text-white transition"
               >
                 <Phone className="w-4 h-4" />
-                +91 8889993873
+                +91 93537 73283
               </a>
               <a
                 href="mailto:luxurypg@gmail.com"
                 className="flex items-center gap-2 hover:text-white transition"
               >
                 <Mail className="w-4 h-4" />
-                luxurygp@gmail.com
+                mypg@gmail.com
               </a>
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
-                <span>Hyderabad – 500081</span>
+                <span>Bangalore – 500081</span>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="flex justify-center md:justify-between items-center flex-col gap-2 text-sm">
           <p className="text-gray-500"><span style={{ color: '#fbbf24' }}>★★★</span> Developer: <span className="font-medium text-gray-300">Chandra Kumar</span></p>
-          <p className="text-gray-500 mt-2">© 2026 Luxury PG & Accommodation. All rights reserved.</p>
+          <p className="text-gray-500 mt-2">© 2026 My PG. All rights reserved.</p>
           <div className="flex gap-6 mt-2">
             <a href="#" className="text-gray-400 hover:text-white transition">Privacy Policy</a>
             <a href="#" className="text-gray-400 hover:text-white transition">Terms of Service</a>
