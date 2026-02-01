@@ -34,7 +34,7 @@ export default function Hero() {
             Umika Comforts PG For Gents
             </h1>
             <p className="text-lg md:text-[1.625rem] md:leading-[1.85rem] md:pb-0.5 font-bold mb-3 md:mt-4 text-light-pass">
-              HITECH City, Bangalore
+            Jain College Opposite Road,Bangalore
             </p>
             <div className="flex justify-center gap-4 md:mt-4">
               <a href="https://wa.me/919900882285" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition">
