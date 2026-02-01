@@ -22,8 +22,8 @@ export default function Location() {
                   Luxury PG & Accodomation<br />
                   Plot No. 29, Jubilee Enclave,<br />
                   HITEC City,<br />
-                  Hyderabad – 500081<br />
-                  Telangana, India
+                  Bangalore – 500081<br />
+                  Karnataka, India
                 </p>
               </div>
             </div>
@@ -57,10 +57,10 @@ export default function Location() {
               <div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-700 mb-2">Nearby Colleges & Institutions</h3>
                 <ul className="list-disc list-inside space-y-1">
-                  <li className="text-base sm:text-lg text-gray-600">IIIT Hyderabad</li>
+                  <li className="text-base sm:text-lg text-gray-600">IIIT Bangalore</li>
                   <li className="text-base sm:text-lg text-gray-600">International School of Business (ISB), Gachibowli</li>
-                  <li className="text-base sm:text-lg text-gray-600">University of Hyderabad</li>
-                  <li className="text-base sm:text-lg text-gray-600">JNTU Hyderabad</li>
+                  <li className="text-base sm:text-lg text-gray-600">Jain University</li>
+                  <li className="text-base sm:text-lg text-gray-600">Dayanand Sagar College</li>
                 </ul>
               </div>
             </div>

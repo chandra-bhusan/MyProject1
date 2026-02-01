@@ -31,16 +31,16 @@ export default function Hero() {
         <div className="flex flex-col-reverse md:flex-row items-center justify-around gap-4 md:gap-12">
           <div className="text-center">
             <h1 className="text-[1.5rem] md:text-5xl font-bold mb-1 text-light-pass">
-            Luxury PG & Accommodation
+            Umika Comforts PG For Gents
             </h1>
             <p className="text-lg md:text-[1.625rem] md:leading-[1.85rem] md:pb-0.5 font-bold mb-3 md:mt-4 text-light-pass">
-              HITECH City, Hyderabad
+              HITECH City, Bangalore
             </p>
             <div className="flex justify-center gap-4 md:mt-4">
-              <a href="https://wa.me/918889993873" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition">
+              <a href="https://wa.me/919900882285" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition">
                 <img src="/home/cyhome3.png" alt="WhatsApp" className="w-9 h-9" />
               </a>
-              <a href="tel:+918889993873" className="hover:scale-110 transition">
+              <a href="tel:+919353773283" className="hover:scale-110 transition">
                 <img src="/home/cyhome4.png" alt="Call" className="w-9 h-9 rounded-full object-cover" />
               </a>
               <a href="mailto:luxurypg@gmail.com" className="hover:scale-110 transition">
@@ -59,7 +59,7 @@ export default function Hero() {
 
           <div className="w-[15.75rem] h-[15.75rem] md:w-80 md:h-80">
             <img
-              src="/home/cypg24.png"
+              src="/home/cypg25.png"
               alt="PG Building"
               className="w-full h-full object-cover rounded-full border-4"
               style={{ borderColor: '#ff914d' }}
