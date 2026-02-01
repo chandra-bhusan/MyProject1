@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold text-lg mb-4">Luxury PG & Accommodation</h3>
             <p className="text-sm text-gray-400 mb-4">
-              Premium accommodation services for students and professionals in Hyderabad.
+              Premium accommodation services for students and professionals in Bangalore.
             </p>
           </div>
 
@@ -34,7 +34,7 @@ export default function Footer() {
               </a>
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
-                <span>Bangalore – 500081</span>
+                <span>Bangalore – 562112</span>
               </div>
             </div>
           </div>

@@ -21,8 +21,8 @@ export default function Location() {
                 <p className="text-lg text-gray-700 leading-relaxed">
                   Luxury PG & Accodomation<br />
                   Plot No. 29, Jubilee Enclave,<br />
-                  HITEC City,<br />
-                  Bangalore – 500081<br />
+                  Jain College Opposite Road,<br />
+                  Bangalore – 560069<br />
                   Karnataka, India
                 </p>
               </div>
@@ -79,7 +79,7 @@ export default function Location() {
               />
             </div>
             <a
-              href="https://maps.app.goo.gl/VUKGmbkjAY7g2LFV8"
+              href="https://maps.app.goo.gl/WVoUbBSbpMAGgd5t7"
               target="_blank"
               rel="noopener noreferrer"
               className="block"
